@@ -23,6 +23,6 @@ Here are the reasons why the process of achieving gender balance at higher manag
 1. Number of promotions of male are higher than female by 29.42%. 
 2. Number of females in HR department are higher with positions in senior and junior officers.
 3. % of turnover for women at young age is very less and most hiring occurs for young women. Hence if they have exprienced women in the company they can promote them to senior level positions to maintain the gender balance. It is the lack of experiencd women for higher management levels company is seeing slow growth in gender balance. 
-
+4. Company also need to focus on job levels of Opertions and Sales mareting where the number of women leaving is higher. They need to make sure the environment is welcoming, comfortable and safe for the women to thrive and equal opportunities are presented to both men and women without any bias. 
 
 ![image](https://user-images.githubusercontent.com/89634505/211186002-aca88f38-ca3e-4109-ba55-4a5820718dcd.png)
