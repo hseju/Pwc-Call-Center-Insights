@@ -16,4 +16,13 @@ PWC has a client that is looking to get insights from the calls data collected f
 
 ## Diversity and Inclusion insights
 
+The company is very keen into diversity and inclusion. However, they are not seeing any progress to acheveing gender balance at higher management level. 
+In this section I have prepared a dashboard about HR analytics in context of hiring, promotion, turnover and performance. 
+
+Here are the reasons why the process of achieving gender balance at higher management level could be slow:
+1. Number of promotions of male are higher than female by 29.42%. 
+2. Number of females in HR department are higher with positions in senior and junior officers.
+3. % of turnover for women at young age is very less and most hiring occurs for young women. Hence if they have exprienced women in the company they can promote them to senior level positions to maintain the gender balance. It is the lack of experiencd women for higher management levels company is seeing slow growth in gender balance. 
+
+
 ![image](https://user-images.githubusercontent.com/89634505/211186002-aca88f38-ca3e-4109-ba55-4a5820718dcd.png)
